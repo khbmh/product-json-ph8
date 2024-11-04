@@ -1,0 +1,298 @@
+[
+  {
+    "product_id": "P001",
+    "product_title": "Apple iPhone 15 Pro Max",
+    "product_image": "https://executivemachines.com/wp-content/uploads/2023/10/I-Phone-15-Pro-max-Hero.jpg",
+    "category": "iPhone",
+    "price": 1299,
+    "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+    "specification": [
+      "6.7-inch Super Retina XDR display",
+      "A17 Bionic chip",
+      "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+      "LiDAR Scanner",
+      "Up to 2TB storage"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P002",
+    "product_title": "Apple MacBook Pro 16-inch",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/3713-9997.jpg",
+    "category": "MacBook",
+    "price": 2499,
+    "description": "Powerful performance for professionals with the MacBook Pro 16-inch.",
+    "specification": [
+      "Apple M1 Max chip",
+      "16-core CPU, 32-core GPU",
+      "16GB RAM (configurable up to 64GB)",
+      "1TB SSD (configurable up to 8TB)",
+      "Liquid Retina XDR display"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "P003",
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-S23-Ultra-Sky-Blue-2618.jpg",
+    "category": "Phones",
+    "price": 1199,
+    "description": "Capture stunning photos with the Galaxy S23 Ultra.",
+    "specification": [
+      "6.8-inch Dynamic AMOLED 2X display",
+      "Snapdragon 8 Gen 2",
+      "Quad-camera system (200MP Main)",
+      "S Pen included",
+      "Up to 1TB storage"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P004",
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://www.apple.com/newsroom/images/2023/09/apple-introduces-the-advanced-new-apple-watch-series-9/article/Apple-Watch-SE-6-up-230912_big.jpg.large.jpg",
+    "category": "Smart Watches",
+    "price": 399,
+    "description": "Stay connected and track your fitness with the Apple Watch Series 9.",
+    "specification": [
+      "Always-On Retina display",
+      "S9 chip",
+      "Health and fitness tracking",
+      "GPS and Cellular options",
+      "Up to 18 hours battery life"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P005",
+    "product_title": "Dell XPS 13",
+    "product_image": "https://www.edinburghremakery.org.uk/wp-content/uploads/2024/04/IMG_20240423_141633_149-scaled.jpg",
+    "category": "Laptops",
+    "price": 999,
+    "description": "Compact and powerful, the Dell XPS 13 is perfect for on-the-go professionals.",
+    "specification": [
+      "13.4-inch FHD+ display",
+      "Intel Core i7",
+      "16GB RAM",
+      "512GB SSD",
+      "InfinityEdge display"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P006",
+    "product_title": "Apple AirPods Pro (2nd generation)",
+    "product_image": "https://rmtibd.com/wp-content/uploads/2022/11/Apple-Airpods-Pro-2-.jpg",
+    "category": "Accessories",
+    "price": 249,
+    "description": "Enjoy immersive sound with active noise cancellation.",
+    "specification": [
+      "Active Noise Cancellation",
+      "Transparency mode",
+      "Spatial audio",
+      "MagSafe charging case"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P007",
+    "product_title": "Samsung Galaxy Watch 6",
+    "product_image": "https://images.samsung.com/is/image/samsung/p6pim/ph/2307/gallery/ph-galaxy-watch6-r935-sm-r930nzkaasa-537412471?$650_519_PNG$",
+    "category": "Smart Watches",
+    "price": 299,
+    "description": "Stylish and feature-rich, the Galaxy Watch 6 helps you stay fit and connected.",
+    "specification": [
+      "1.5-inch Super AMOLED display",
+      "Body composition measurement",
+      "Workout tracking",
+      "Battery life up to 40 hours"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P008",
+    "product_title": "Apple iPhone 15",
+    "product_image": "https://cdn.verk.net/images/15/2_894244-4000x4000.jpeg",
+    "category": "iPhone",
+    "price": 799,
+    "description": "The iPhone 15 combines powerful performance with a sleek design.",
+    "specification": [
+      "6.1-inch Super Retina XDR display",
+      "A16 Bionic chip",
+      "Dual-camera system",
+      "Up to 512GB storage"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P009",
+    "product_title": "Asus ROG Zephyrus G14",
+    "product_image": "https://dlcdnwebimgs.asus.com/gain/7767BD74-8865-4D61-96F7-94D6412E3E46",
+    "category": "Laptops",
+    "price": 1499,
+    "description": "Designed for gamers, the ROG Zephyrus G14 delivers high performance.",
+    "specification": [
+      "14-inch QHD display",
+      "AMD Ryzen 9",
+      "32GB RAM",
+      "1TB SSD",
+      "NVIDIA GeForce RTX 4060"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P010",
+    "product_title": "OnePlus 11",
+    "product_image": "https://i0.wp.com/kryinternational.com/wp-content/uploads/2024/03/OnePlus-11.jpg",
+    "category": "Phones",
+    "price": 699,
+    "description": "The OnePlus 11 offers high performance and a premium design.",
+    "specification": [
+      "6.7-inch AMOLED display",
+      "Snapdragon 8 Gen 2",
+      "Triple-camera system",
+      "Up to 512GB storage"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P011",
+    "product_title": "Jabra Elite 85t",
+    "product_image": "https://compucon.com.hk/wp-content/uploads/2021/08/jabra-elite-85-angle-3-charging-unit-lb-titanium-black-copy-1.jpg",
+    "category": "Accessories",
+    "price": 229,
+    "description": "Wireless earbuds with advanced noise cancellation and superior sound quality.",
+    "specification": [
+      "Active Noise Cancellation",
+      "Wireless charging case",
+      "Customizable equalizer",
+      "Up to 25 hours battery life"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P012",
+    "product_title": "Apple MacBook Air (M2, 2022)",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/MacBook-Air-M2-Midnight-8137.jpg",
+    "category": "MacBook",
+    "price": 1199,
+    "description": "The MacBook Air is light, powerful, and portable.",
+    "specification": [
+      "13.6-inch Liquid Retina display",
+      "Apple M2 chip",
+      "8GB RAM (configurable up to 24GB)",
+      "256GB SSD (configurable up to 2TB)"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P013",
+    "product_title": "Fossil Gen 6",
+    "product_image": "https://fossil.scene7.com/is/image/FossilPartners/FTW4068_3hero?$sfcc_fos_large$",
+    "category": "Smart Watches",
+    "price": 299,
+    "description": "Stylish smart watch with health tracking features.",
+    "specification": [
+      "1.28-inch AMOLED display",
+      "Snapdragon Wear 4100+",
+      "Heart rate and SpO2 monitoring",
+      "Battery life up to 24 hours"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P014",
+    "product_title": "Xiaomi Mi Band 7",
+    "product_image": "https://diamu.com.bd/wp-content/uploads/2022/06/Xiaomi-Smart-Band-7-2.jpg",
+    "category": "Accessories",
+    "price": 49,
+    "description": "Affordable fitness tracker with various health monitoring features.",
+    "specification": [
+      "1.62-inch AMOLED display",
+      "Heart rate and sleep monitoring",
+      "Up to 14 days battery life",
+      "Water resistant"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P015",
+    "product_title": "Google Pixel 7 Pro",
+    "product_image": "https://kryinternational.com/wp-content/uploads/2024/02/Google-Pixel-7-Pro.jpg",
+    "category": "Phones",
+    "price": 899,
+    "description": "The Google Pixel 7 Pro is known for its excellent camera and software experience.",
+    "specification": [
+      "6.7-inch LTPO AMOLED display",
+      "Google Tensor G2 chip",
+      "Triple camera system (50MP Main)",
+      "Up to 512GB storage"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P016",
+    "product_title": "Lenovo ThinkPad X1 Carbon (9th Gen)",
+    "product_image": "https://mcsolution.com.bd/wp-content/uploads/2022/03/Lenovo-ThinkPad-X1-Carbon-Gen-9-MC-Solution-BD.webp",
+    "category": "Laptops",
+    "price": 1399,
+    "description": "Ultralight and powerful, perfect for business professionals.",
+    "specification": [
+      "14-inch 4K display",
+      "Intel Core i7",
+      "16GB RAM",
+      "512GB SSD",
+      "Carbon fiber design"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P017",
+    "product_title": "Oppo Find X6 Pro",
+    "product_image": "https://miro.medium.com/v2/resize:fit:1080/1*C4_6OT-Agq2rzHmktk4o0w.jpeg",
+    "category": "Phones",
+    "price": 999,
+    "description": "A premium smartphone with cutting-edge features and design.",
+    "specification": [
+      "6.82-inch AMOLED display",
+      "Snapdragon 8 Gen 2",
+      "Triple-camera system (50MP Main)",
+      "Up to 512GB storage"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P018",
+    "product_title": "Microsoft Surface Pro 9",
+    "product_image": "https://www.tmt.my/data/editor/sc-product/3607/SP9.jpg",
+    "category": "Laptops",
+    "price": 999,
+    "description": "Versatile 2-in-1 device with high performance and portability.",
+    "specification": [
+      "13-inch PixelSense display",
+      "Intel Core i5",
+      "8GB RAM",
+      "128GB SSD",
+      "Detachable keyboard"
+    ],
+    "availability": true,
+    "rating": 4.4
+  }
+]
