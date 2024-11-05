@@ -199,26 +199,27 @@
   },
   {
     "product_id": "P013",
-    "product_title": "Fossil Gen 6",
-    "product_image": "https://fossil.scene7.com/is/image/FossilPartners/FTW4068_3hero?$sfcc_fos_large$",
-    "category": "Smart Watches",
-    "price": 299,
-    "description": "Stylish smart watch with health tracking features.",
+    "product_title": "Acer Aspire 5",
+    "product_image": "https://example.com/images/acer-aspire-5.jpg",
+    "category": "Laptops",
+    "price": 599,
+    "description": "Affordable and efficient laptop for daily tasks, with a sleek design and solid performance.",
     "specification": [
-      "1.28-inch AMOLED display",
-      "Snapdragon Wear 4100+",
-      "Heart rate and SpO2 monitoring",
-      "Battery life up to 24 hours"
+      "15.6-inch Full HD display",
+      "AMD Ryzen 5 3550U",
+      "8GB RAM",
+      "256GB SSD",
+      "AMD Radeon RX Vega 8"
     ],
     "availability": true,
-    "rating": 4.5
+    "rating": 4.0
   },
   {
     "product_id": "P014",
     "product_title": "Xiaomi Mi Band 7",
     "product_image": "https://diamu.com.bd/wp-content/uploads/2022/06/Xiaomi-Smart-Band-7-2.jpg",
     "category": "Accessories",
-    "price": 49,
+    "price": 99,
     "description": "Affordable fitness tracker with various health monitoring features.",
     "specification": [
       "1.62-inch AMOLED display",
@@ -264,6 +265,23 @@
   },
   {
     "product_id": "P017",
+    "product_title": "HP Pavilion 15",
+    "product_image": "https://example.com/images/hp-pavilion-15.jpg",
+    "category": "Laptops",
+    "price": 749,
+    "description": "Reliable laptop with a balance of performance and design for everyday tasks.",
+    "specification": [
+      "15.6-inch Full HD display",
+      "Intel Core i7 (10th Gen)",
+      "16GB RAM",
+      "512GB SSD",
+      "NVIDIA GeForce MX250"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P018",
     "product_title": "Oppo Find X6 Pro",
     "product_image": "https://miro.medium.com/v2/resize:fit:1080/1*C4_6OT-Agq2rzHmktk4o0w.jpeg",
     "category": "Phones",
@@ -279,7 +297,7 @@
     "rating": 4.6
   },
   {
-    "product_id": "P018",
+    "product_id": "P019",
     "product_title": "Microsoft Surface Pro 9",
     "product_image": "https://www.tmt.my/data/editor/sc-product/3607/SP9.jpg",
     "category": "Laptops",
@@ -294,5 +312,21 @@
     ],
     "availability": true,
     "rating": 4.4
+  },
+  {
+    "product_id": "P020",
+    "product_title": "Fossil Gen 6",
+    "product_image": "https://fossil.scene7.com/is/image/FossilPartners/FTW4068_3hero?$sfcc_fos_large$",
+    "category": "Smart Watches",
+    "price": 299,
+    "description": "Stylish smart watch with health tracking features.",
+    "specification": [
+      "1.28-inch AMOLED display",
+      "Snapdragon Wear 4100+",
+      "Heart rate and SpO2 monitoring",
+      "Battery life up to 24 hours"
+    ],
+    "availability": true,
+    "rating": 4.5
   }
 ]
